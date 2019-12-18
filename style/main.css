@@ -1,0 +1,26 @@
+body {
+    background-color: #455a64;
+    color: #fafafa;
+}
+footer {
+    background-color: #718791;
+    color: #f6f6f6;
+
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    height: 100px;
+    width: 100%
+}
+footer p {
+    padding-left: 8px;
+}
+/*
+Primary - 455a64 - BG 
+  Light - 718792
+  Dark  - 1c313a
+Secondary - 30787f - FG
+  Light - 62a7ae
+  Dark  - 004c53
+Text - fafafa
+*/
